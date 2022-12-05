@@ -10,7 +10,7 @@ const siteMetadata = {
   siteUrl: 'xxxxx.com',
   siteRepo: 'https://github.com/xxxx',
   siteLogo: '/static/images/logo.png',
-  image: '/static/author.jpg',
+  image: '/static/Rambo.jpg',
   // socialBanner: '/static/',
   email: 'jhonatan.ramboo@hotmail.com',
   github: 'https://github.com/Jhow-Rambo',

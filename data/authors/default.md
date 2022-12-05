@@ -1,7 +1,7 @@
 ---
 name: Jhonatan Lourenço Rambo
 shortname: Rambo
-avatar: /static/author.jpeg
+avatar: /static/Rambo.jpeg
 occupation: Full Stack Developer
 company: Sharpy
 resume: /static/Rambo_Resume.pdf
