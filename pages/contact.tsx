@@ -24,7 +24,7 @@ function Contact(): React.ReactElement {
             <a
               className='ml-2 cursor-pointer !font-normal !text-black !no-underline dark:!text-white'
               //onClick={onScheduleMeeting}
-              href='https://www.linkedin.com/in/jhonatan-rambo-8374b81b2/?locale=en_US'
+              href='https://www.linkedin.com/in/jhonatan-rambo-dev/?locale=en_US'
               role='button'
               tabIndex={0}
             >
