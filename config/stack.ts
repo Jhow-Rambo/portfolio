@@ -8,6 +8,7 @@ export enum Stack {
 
   // Frontend
   vue,
+  vue3,
   vue2,
   nuxtjs,
   react,
@@ -67,6 +68,10 @@ export const StackInfo: Record<Stack, StackInfoMap> = {
   [Stack.vue2]: {
     value: 'Vue2',
     color: Colors.vue2,
+  },
+  [Stack.vue3]: {
+    value: 'Vue3',
+    color: Colors.vue3,
   },
   [Stack.nuxtjs]: {
     value: 'NuxtJS',

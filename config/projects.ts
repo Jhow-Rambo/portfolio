@@ -68,6 +68,34 @@ export const projects: Project[] = [
     subProjects: [],
   },
   {
+    title: 'Meter Dashboard',
+    slug: 'meterDashboard',
+    website: 'https://meter-dashboard.vercel.app/dashboard',
+    banner: '/static/projects/meterDashboard/banner.png',
+    description:
+      'Dashboard constructed with the objective to be a proof-of-concept to a project where the main objective was to show images of the meter readings that an AI processed',
+    shortDescription:
+      'Dashboard constructed with the objective to show images of the meter readings that an AI processed',
+    repository: 'https://meter-dashboard.vercel.app/dashboard',
+    stack: [
+      Stack.vue3,
+      Stack.tailwind,
+      Stack.vercel,
+    ],
+    dimensions: [460, 1000],
+    screenshots: [
+      '/static/projects/meterDashboard/banner.png',
+      '/static/projects/meterDashboard/meter.png',
+      '/static/projects/meterDashboard/meterData.png',
+      '/static/projects/meterDashboard/addMeter.png',
+    ],
+    deployment: {
+      web: 'https://meter-dashboard.vercel.app/dashboard',
+      gitHub: 'https://github.com/Jhow-Rambo/meter-dashboard'
+    },
+    subProjects: [],
+  },
+  {
     title: 'Odona',
     slug: 'odona',
     banner: '/static/projects/odona/banner.png',

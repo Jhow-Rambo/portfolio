@@ -10,6 +10,7 @@ export const Colors = {
   react: '#61DAF6',
   vue: '#419f59',
   vue2: '#419f59',
+  vue3: '#419f59',
   nuxtjs: '#3bb773',
   nextjs: '#000000',
 
