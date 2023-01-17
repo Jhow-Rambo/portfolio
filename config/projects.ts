@@ -160,7 +160,7 @@ export const projects: Project[] = [
     website: '',
     banner: '/static/projects/sharpy/banner.png',
     description:
-      'Sharpy is a software house that aims to build solutions to everyday problems. We create all company landing pages, solutions, application steps and much more.',
+      'Sharpy is a software house that aims to build solutions to everyday problems. We create all company landing pages, solutions, application steps and much more. This website is still under development and cannot be shared',
     shortDescription:
       'Sharpy is a software house that aims to build solutions to everyday problems.',
     repository: '',
@@ -176,7 +176,7 @@ export const projects: Project[] = [
       '/static/projects/sharpy/footer.png',
     ],
     deployment: {
-      web: 'https://www.figma.com/proto/lVD8seuAhdZAjrkrwpoFyI/Sharpy?node-id=327%3A11739&scaling=scale-down&page-id=46%3A1380&starting-point-node-id=301%3A7151',
+      gitHub: 'https://github.com/Jhow-Rambo'
     },
     subProjects: [],
   },
